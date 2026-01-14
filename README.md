@@ -60,6 +60,7 @@ Beyond just building tools, I am deeply curious about the **"Why"** and **"How"*
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj1045&show_icons=true&theme=tokyonight" alt="Suraj's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj1045&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suraj1045&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suraj's GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suraj1045&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180px" />
 </p>
