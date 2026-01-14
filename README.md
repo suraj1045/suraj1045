@@ -1,36 +1,46 @@
 # Hi there, I'm Suraj 👋  
 
-🚀 **AI/ML Engineer & Full-Stack Developer** 🎯 Focus: Agentic AI Workflows, FinTech Innovation, and Computer Vision.  
-✨ Currently building: **AI-Powered Stock Analysis Agents** and **Drowsiness Detection Systems**.  
-📍 Active in the GDG community and passionate about scalable software architecture.
+🚀 **AI/ML Engineer & Systems Architect** 🎯 **Focus:** Merging Agentic AI with robust Software Engineering principles while building an engaging platform to interact with it.  
+✨ Passionate about writing clean, scalable code and designing intelligent, autonomous workflows.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🏗️ Core Engineering Philosophy  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nextjs,flask,mongodb,mysql,git,github,docker,linux,flutter" />
-  </a>
-</p>
+Beyond just building tools, I am deeply curious about the **"Why"** and **"How"** of software. My work is guided by:
 
----
-
-## 🧠 What I'm Working On  
-
-- **Agentic AI & LLMs:** Building intelligent workflows using **LangChain** and **LangGraph** to automate complex data analysis.
-- **FinTech AI:** Developing models to scan real-time news and predict stock market variances.
-- **Computer Vision:** Training **YOLOv5** models for real-world safety applications like Drowsiness Detection.
-- **Software Architecture:** Deep diving into Domain-Driven Design (DDD), SQLAlchemy, and Pydantic for robust backends.
+* **Pattern-Driven Development:** Active application of Creational, Structural, and Behavioral Design Patterns to build maintainable systems.
+* **Algorithmic Efficiency:** A strong interest in Algorithm Design, focusing on optimizing time/space complexity and data structure selection.
+* **Architectural Integrity:** Implementing **Domain-Driven Design (DDD)** and **SOLID principles** to ensure codebases remain scalable and decoupled.
+* **Mathematical Foundations:** Exploring the concepts of Convex Optimization, Statistics, and ML architectures.
 
 ---
 
-## 🏆 Featured Projects  
+## 🛠️ Technical Expertise  
 
-- 📈 **FinTech AI Agent (WIP):** An agentic workflow that analyzes stock fluctuations and correlates them with global news events.  
-- 🚗 **Drowsiness Detection:** A YOLOv5-based computer vision project trained on Kaggle datasets to enhance driver safety.  
-- 🧭 **Timberpath:** A shortest path finder leveraging Google Maps API with a sleek Flask-based architecture.  
-- 💳 **Credit Card Fraud Analysis:** A deep-dive case study into banking security using R and data analytics.
+### **AI, ML & Data Science**
+- **Agentic Workflows:** Working with **LangGraph**, **LangChain**, and autonomous reasoning agents.
+- **Computer Vision:** Real-time detection systems using **YOLOv5** and **OpenCV**.
+- **Data Engineering:** High-performance data validation and modeling with **Pydantic** and **SQLAlchemy**.
+
+### **Full-Stack Development**
+- **Frontend:** Modern, reactive UIs with **React 19**, **Vite**, and **Tailwind CSS v4**.
+- **Backend:** Scalable microservices using **FastAPI**, **Flask**, and **Node.js**.
+- **Mobile:** Cross-platform development with **Flutter** and **Dart**.
+
+---
+
+## 🔬 Featured Projects  
+
+### 🤖 [Agentic AI Stock News Analyst](https://github.com/suraj1045)  
+*An intelligent workflow that monitors global markets.* - **Design Pattern:** Utilizes **State Machines (via LangGraph)** to manage complex agent reasoning loops.
+- **Impact:** Automatically correlates stock variances with real-time news events to provide automated causal analysis.
+
+### 👁️ [Real-Time Drowsiness Detection](https://github.com/suraj1045)  
+*CV safety system for driver monitoring.* - **Algorithm Focus:** Optimized inference pipelines for real-time video processing using custom-trained YOLOv5 models.
+
+### 🧭 [Timberpath](https://github.com/suraj1045)  
+*Pathfinding visualization tool.* - **Algorithm Focus:** Implementation and visualization of shortest-path algorithms integrated with the Google Maps API.
 
 ---
 
@@ -43,14 +53,11 @@
   <a href="mailto:surajv1045@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/suraj1045" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 📊 GitHub Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj1045&show_icons=true&theme=tokyonight" alt="Suraj's GitHub stats" height="180em"/>
